@@ -11,11 +11,11 @@ keyboard commands. Additionally, the font color in the console changed in time w
 ## Setup:
 ##### To run the program you need to download an emulator of DOS environment - DOSBox. A properly configured emulator with debugger and Turo Assembler is available for download in this repository in the file 
 ##### **_DOSBox.zip_**
-1. Unzip the archive and run **_dosbox-x.exe_**
-2. Type the following commands in the emulator console:
+##### 1. Unzip the archive and run **_dosbox-x.exe_**
+##### 2. Type the following commands in the emulator console:
 ```DOSBox CLI
 tasm music.asm
 tlink music.obj
 music notes/song_name.txt
 ```
-Where _sone_name_ is the name of the melody.
+##### Where _sone_name_ is the name of the melody.
