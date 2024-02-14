@@ -9,8 +9,7 @@ keyboard commands. Additionally, the font color in the console changed in time w
 - Turbo Assembler 16-bit
 
 ## Setup:
-To run the program you need to download an emulator of DOS environment - DOSBox. A properly configured emulator with debugger and Turo Assembler is available for download in this repository in the file 
-**_DOSBox.zip_**
+To run the program, you need to download this repository and a DOS environment emulator - DOSBox. A properly configured emulator with debugger and Turbo Assembler is available for download in this repository in the file **_DOSBox.zip_**.
 1. Unzip the archive and run **_dosbox-x.exe_**
 2. Type the following commands in the emulator console:
 ```DOSBox CLI
