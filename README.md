@@ -13,7 +13,7 @@ To run the program, you need to download this repository and a DOS environment e
 1. Unzip the archive.
 2. Move the `music.asm` to the `VHDD` folder.
 3. Run `dosbox-x.exe`
-4. Type the following commands in the emulator console:
+4. Enter the following commands in the emulator console:
 ```DOSBox CLI
 tasm music.asm
 tlink music.obj
