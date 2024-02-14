@@ -1,21 +1,21 @@
 # PC Speaker Music
-#### This project was implemented during IT studies as part of a low-level programming class on a 16-bit microprocessor, specifically the Intel 8086
+This project was implemented during IT studies as part of a low-level programming class on a 16-bit microprocessor, specifically the Intel 8086
 
 ## General info
-##### The program's task was to play melodies using the system speaker. Melodies were read from a text file stored in RTTTL format (handling of executable file parameters). While playing the melody, users could adjust the tempo, pause, and end the melody using 
+The program's task was to play melodies using the system speaker. Melodies were read from a text file stored in RTTTL format (handling of executable file parameters). While playing the melody, users could adjust the tempo, pause, and end the melody using 
 keyboard commands. Additionally, the font color in the console changed in time with the sounds being played. Example melodies are available in the `notes` directory.
 
 ## Technologies
-##### * Turbo Assembler 16-bit
+- Turbo Assembler 16-bit
 
 ## Setup:
-##### To run the program you need to download an emulator of DOS environment - DOSBox. A properly configured emulator with debugger and Turo Assembler is available for download in this repository in the file 
-##### **_DOSBox.zip_**
-##### 1. Unzip the archive and run **_dosbox-x.exe_**
-##### 2. Type the following commands in the emulator console:
+To run the program you need to download an emulator of DOS environment - DOSBox. A properly configured emulator with debugger and Turo Assembler is available for download in this repository in the file 
+**_DOSBox.zip_**
+1. Unzip the archive and run **_dosbox-x.exe_**
+2. Type the following commands in the emulator console:
 ```DOSBox CLI
 tasm music.asm
 tlink music.obj
 music notes/song_name.txt
 ```
-##### Where _sone_name_ is the name of the melody.
+Where _sone_name_ is the name of the melody.
