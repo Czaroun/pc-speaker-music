@@ -1,7 +1,7 @@
 # PC Speaker Music
 This project was implemented during IT studies as part of a low-level programming class on a 16-bit microprocessor, specifically the Intel 8086
 
-## General info
+## General Info
 The program's task was to play melodies using the system speaker. Melodies were read from a text file stored in RTTTL format (handling of executable file parameters). While playing the melody, users could adjust the tempo, pause, and end the melody using 
 keyboard commands. Additionally, the font color in the console changed in time with the sounds being played. Example melodies are available in the `notes` directory.
 
