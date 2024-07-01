@@ -10,7 +10,7 @@ keyboard commands. Additionally, the font color in the console changed in time w
 
 ## Setup
 To run the program, you need to download this repository and a DOS environment emulator - DOSBox. A properly configured emulator with debugger and Turbo Assembler is available for download in this repository in the file **_DOSBox.zip_**.
-1. Unzip the archive.
+1. Clone or download the repository.
 2. Move the `music.asm` to the `VHDD` folder.
 3. Move the `notes` folder to the `VHDD` folder.
 4. Run `dosbox-x.exe`.
