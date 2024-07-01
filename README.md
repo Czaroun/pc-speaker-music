@@ -8,7 +8,7 @@ keyboard commands. Additionally, the font color in the console changed in time w
 ## Technologies
 - Turbo Assembler 16-bit
 
-## Setup:
+## Setup
 To run the program, you need to download this repository and a DOS environment emulator - DOSBox. A properly configured emulator with debugger and Turbo Assembler is available for download in this repository in the file **_DOSBox.zip_**.
 1. Unzip the archive.
 2. Move the `music.asm` to the `VHDD` folder.
