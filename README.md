@@ -20,4 +20,4 @@ tasm music.asm
 tlink music.obj
 music notes/song_name.txt
 ```
-Where _sone_name_ is the name of the melody.
+Where _song_name_ is the name of the melody.
